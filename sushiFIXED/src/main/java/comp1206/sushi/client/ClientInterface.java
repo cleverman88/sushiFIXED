@@ -16,7 +16,7 @@ public interface ClientInterface {
 	public Restaurant getRestaurant();
 	
 	/** 
-	 * Get the name of the restaurant
+	 * Gets the name of the restaurant
 	 * @return restaurant name
 	 */
 	public String getRestaurantName();
